@@ -42,7 +42,7 @@
                 </p>
                 <div id="captchaStyling" class="g-recaptcha" data-sitekey="<?php echo $siteKey; ?>"></div>
                 <p style="margin-bottom:14px;">
-                    <button class="submit" type="submit" id="button" style="width:100%;height:3em;">Submit</button>
+                    <button class="submit" type="submit" id="button">Submit</button>
                 </p>
             </fieldset>
         </form>
