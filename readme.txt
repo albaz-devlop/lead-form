@@ -16,3 +16,4 @@ Once the person clicks on the form several processes will follow:
 2). A Thank You email will be sent to the "email Address" telling the person a little more about our services and assuring them that someone will followup soon with them.
 3). A lead will be generated in our Nutshell CRM database we subscribe to.
 4). A record will be written to mailChimp so that they will continue to recieve opt-in emails from time-to-time.
+5). Commit data to my local mysql database.
